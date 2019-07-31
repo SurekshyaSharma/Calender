@@ -1,2 +1,2 @@
 # Calender
-Making a  caldener using JavaScript
+Making a  calender using JavaScript
